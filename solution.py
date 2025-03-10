@@ -1,4 +1,4 @@
-n_palavras = int(intput())
+n_palavras = int(input())
 maior_palavra = ""
 for i in range(n_palavras):
     palavra = input()
