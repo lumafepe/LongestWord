@@ -1,9 +1,9 @@
 # Palavra mais longa
 
-##Problema:
+## Problema:
 Dada uma lista de palavras e o seu número, qual é a palavra mais comprida da lista?
 
-##input:
+## input:
 
 A primeira linha indica o número de palavras no input.
 As próximas linhas são cada uma das palavras.
@@ -22,7 +22,7 @@ Dojo
 Adeus
 ```
 
-##output:
+## output:
 
 Uma linha com a palavra mais comprida encontrada. Em caso de empate deve ser impressa a primeira que aparece na lista.
 ```
