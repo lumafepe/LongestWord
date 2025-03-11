@@ -3,10 +3,18 @@
 ## Problema:
 Dada uma lista de palavras e o seu número, qual é a palavra mais comprida da lista?
 
-## input:
+## Input:
 
 A primeira linha indica o número de palavras no input.
 As próximas linhas são cada uma das palavras.
+
+## Output:
+
+Uma linha com a palavra mais comprida encontrada. Em caso de empate deve ser impressa a primeira que aparece na lista.
+
+## Exemplo
+
+Input:
 
 ```
 10
@@ -22,9 +30,8 @@ Dojo
 Adeus
 ```
 
-## output:
+Output:
 
-Uma linha com a palavra mais comprida encontrada. Em caso de empate deve ser impressa a primeira que aparece na lista.
 ```
 Voluntário
 ```
